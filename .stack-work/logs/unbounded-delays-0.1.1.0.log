@@ -1,0 +1,7 @@
+Configuring unbounded-delays-0.1.1.0...
+Preprocessing library for unbounded-delays-0.1.1.0..
+Building library for unbounded-delays-0.1.1.0..
+[1 of 2] Compiling Control.Concurrent.Thread.Delay ( Control/Concurrent/Thread/Delay.hs, .stack-work/dist/x86_64-linux-tinfo6/Cabal-2.2.0.1/build/Control/Concurrent/Thread/Delay.o )
+[2 of 2] Compiling Control.Concurrent.Timeout ( Control/Concurrent/Timeout.hs, .stack-work/dist/x86_64-linux-tinfo6/Cabal-2.2.0.1/build/Control/Concurrent/Timeout.o )
+Installing library in /home/nomad/.stack/snapshots/x86_64-linux-tinfo6/lts-12.15/8.4.4/lib/x86_64-linux-ghc-8.4.4/unbounded-delays-0.1.1.0-9rdvMSlv4bPE477VFM26yN
+Registering library for unbounded-delays-0.1.1.0..
